@@ -1,3 +1,3 @@
 function button1（）{
-	location = location;
+	location.reload();
 }
